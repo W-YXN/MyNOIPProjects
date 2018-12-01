@@ -38,6 +38,6 @@ _LL fib1(_LL n=1){
 int main(){
     _LL k;
     cin>>k;
-    cout<<fib1(k)<<endl<<fib2(k)<<endl;
+    cout<<fib1(k)<<endl;
     return 0;
 }
