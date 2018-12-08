@@ -5,6 +5,13 @@ typedef long long _LL;
 _LL a[10000] = {0};
 _LL fi[10000] = {0};
 
+_LL easyfib(_LL n=1){
+    if(n==1||n==0){
+        return 1;
+    }else{
+        return easyfib(n-1)+easyfib(n-2);
+    }
+}
 
 _LL fib2(_LL n=1){
     if(fi[n]!=0){
@@ -38,6 +45,6 @@ _LL fib1(_LL n=1){
 int main(){
     _LL k;
     cin>>k;
-    cout<<fib1(k)<<endl;
+    cout<<easyfib(k)<<endl;
     return 0;
 }
