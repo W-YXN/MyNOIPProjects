@@ -2,6 +2,7 @@
 #include<cmath>
 #include<algorithm>
 using namespace std;
+
 int n=4;
 int w[5]={2,1,3,2};
 int v[5]={3,2,4,2};
