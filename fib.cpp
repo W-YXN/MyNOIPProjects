@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 typedef long long _LL;
-
+/*
 _LL a[10000] = {0};
 _LL fi[10000] = {0};
-
+*/
 _LL easyfib(_LL n=1){
     if(n==1||n==0){
         return 1;
@@ -12,7 +12,7 @@ _LL easyfib(_LL n=1){
         return easyfib(n-1)+easyfib(n-2);
     }
 }
-
+/*
 _LL fib2(_LL n=1){
     if(fi[n]!=0){
         return fi[n];
@@ -41,7 +41,7 @@ _LL fib1(_LL n=1){
         return fi[n];
     }
 }
-
+*/
 int main(){
     _LL k;
     cin>>k;
