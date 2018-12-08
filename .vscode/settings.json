@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "ios": "cpp",
-        "cstdio": "cpp"
+        "cstdio": "cpp",
+        "algorithm": "cpp"
     }
 }
