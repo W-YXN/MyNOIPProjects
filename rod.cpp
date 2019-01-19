@@ -47,15 +47,29 @@
 
 ///Another solution by Mr.nobody.
 ///Also thanks a lot!
-
+/*
 #include<bits/stdc++.h>
 using namespace std;
 int f[20][20]={0};
 int a[20];
 int main(){
 	freopen("rod.data","r",stdin);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	int n,v;
-	cin>>n>>v;
+------------------------9----------------------------------------------	cin>>n>>v;
 	for(int i=1;i<=n;i++){
 		int x,y;
 		cin>>x>>y;
@@ -79,3 +93,4 @@ int main(){
     cout<<f[n][v]<<endl;
     return 0;
 }
+*/
