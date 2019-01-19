@@ -93,7 +93,7 @@ int main(){
             }
         }
     }
-   */
+   */ //deleted
     cout<<(int)score<<endl;
     return 0;
 }
