@@ -54,22 +54,8 @@ int f[20][20]={0};
 int a[20];
 int main(){
 	freopen("rod.data","r",stdin);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	int n,v;
-------------------------9----------------------------------------------	cin>>n>>v;
+    cin>>n>>v;
 	for(int i=1;i<=n;i++){
 		int x,y;
 		cin>>x>>y;
@@ -94,3 +80,10 @@ int main(){
     return 0;
 }
 */
+
+
+///Another Solution by Wi-Fi6.
+///No thanks this time (XD)
+
+
+//Nothing here.
