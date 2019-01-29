@@ -55,6 +55,7 @@ int a[20];
 int main(){
 	freopen("rod.data","r",stdin);
 	int n,v;
+    
     cin>>n>>v;
 	for(int i=1;i<=n;i++){
 		int x,y;
@@ -84,6 +85,30 @@ int main(){
 
 ///Another Solution by Wi-Fi6.
 ///No thanks this time (XD)
+#include<bits/stdc++.h>
+using namespace std;
+int p[1001],r[1001]={-1};
 
+int cut(int )
 
-//Nothing here.
+int main()
+{
+    freopen("rod.data","r",stdin);
+    //freopen("rod.out","w",stdout);
+    int n,*x1,*x2;//n: number x1,x2:temporary
+    cin>>n;
+    for(int i=1;i<=n;i++)
+        cin>>p[i];
+    for(int i=1;i<=n,i++){
+        cin>>*x1>>*x2;
+        p[*x1]=*x2;                                
+    }
+    x1=x2=NULL; //↓
+    delete x1;  //↓
+    delete x2;  //Safe Delete
+    for(int i=1;i<=n;i++){
+        cut
+    }
+    return 0;
+}
+
