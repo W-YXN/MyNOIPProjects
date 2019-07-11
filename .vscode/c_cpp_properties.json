@@ -5,7 +5,9 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "D:/Applications/MinGW/include",
-                "D:/Applications/MinGW/include/c++/3.4.5"
+                "D:/Applications/MinGW/include/c++/3.4.5",
+                "D:/Applications/MinGW/lib/gcc/mingw32/8.2.0/include/c++/mingw32",
+                "D:/Applications/MinGW/include/c++/3.4.5/mingw32"
             ],
             "defines": [
                 "_DEBUG",
