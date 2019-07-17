@@ -45,6 +45,8 @@
         "xutility": "cpp",
         "*.tcc": "cpp",
         "clocale": "cpp",
-        "cwctype": "cpp"
+        "cwctype": "cpp",
+        "vector": "cpp",
+        "climits": "cpp"
     }
 }
