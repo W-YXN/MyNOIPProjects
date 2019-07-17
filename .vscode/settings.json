@@ -47,6 +47,7 @@
         "clocale": "cpp",
         "cwctype": "cpp",
         "vector": "cpp",
-        "climits": "cpp"
+        "climits": "cpp",
+        "set": "cpp"
     }
 }
