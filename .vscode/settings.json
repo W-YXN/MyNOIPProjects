@@ -48,6 +48,9 @@
         "cwctype": "cpp",
         "vector": "cpp",
         "climits": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "complex": "cpp",
+        "valarray": "cpp",
+        "stack": "cpp"
     }
 }
