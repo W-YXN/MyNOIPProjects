@@ -2,3 +2,6 @@
 /**/output/
 *.out
 /**/*.exe
+*.class
+*.out
+/**/*.class
