@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.cpp": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
         "ios": "cpp",
@@ -91,6 +92,7 @@
         "xhash": "cpp",
         "xlocbuf": "cpp",
         "xlocmes": "cpp",
-        "xtree": "cpp"
+        "xtree": "cpp",
+        "string_view": "cpp"
     }
 }
