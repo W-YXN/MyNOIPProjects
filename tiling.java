@@ -8,7 +8,6 @@ public class Main {
         ans[0] = BigInteger.valueOf(0);
         ans[1] = BigInteger.valueOf(1);
         ans[2] = BigInteger.valueOf(3);
-        ans[3] = BigInteger.valueOf(6);
         for (int i = 3; i < 252; i++) {
             ans[i] = ans[i - 1].add(ans[i - 2].multiply(BigInteger.valueOf(2)));
         }
