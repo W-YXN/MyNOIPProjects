@@ -1,7 +1,7 @@
 import java.util.*;
 import java.math.BigInteger;
 
-public class Main {
+public class tiling {
     public static void main(String[] args) {
         Scanner sn = new Scanner(System.in);
         BigInteger ans[] = new BigInteger[260];
