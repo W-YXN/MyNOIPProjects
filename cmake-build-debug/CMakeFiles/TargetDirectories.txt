@@ -1,0 +1,3 @@
+C:/Projects/_CodeProjects/MyNOIPProjects/cmake-build-debug/CMakeFiles/MyNOIPProjects.dir
+C:/Projects/_CodeProjects/MyNOIPProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/_CodeProjects/MyNOIPProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
